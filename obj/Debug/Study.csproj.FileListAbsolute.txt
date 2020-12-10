@@ -1,0 +1,15 @@
+C:\Users\School\source\repos\insectapp\obj\Debug\Study.csprojAssemblyReference.cache
+C:\Users\School\source\repos\insectapp\obj\Debug\MainWindow.g.cs
+C:\Users\School\source\repos\insectapp\obj\Debug\App.g.cs
+C:\Users\School\source\repos\insectapp\obj\Debug\insectapp_MarkupCompile.cache
+C:\Users\School\source\repos\insectapp\obj\Debug\insectapp_MarkupCompile.lref
+C:\Users\School\source\repos\insectapp\bin\Debug\insectapp.exe.config
+C:\Users\School\source\repos\insectapp\bin\Debug\insectapp.exe
+C:\Users\School\source\repos\insectapp\bin\Debug\insectapp.pdb
+C:\Users\School\source\repos\insectapp\obj\Debug\MainWindow.baml
+C:\Users\School\source\repos\insectapp\obj\Debug\insectapp.g.resources
+C:\Users\School\source\repos\insectapp\obj\Debug\insectapp.Properties.Resources.resources
+C:\Users\School\source\repos\insectapp\obj\Debug\Study.csproj.GenerateResource.cache
+C:\Users\School\source\repos\insectapp\obj\Debug\Study.csproj.CoreCompileInputs.cache
+C:\Users\School\source\repos\insectapp\obj\Debug\insectapp.exe
+C:\Users\School\source\repos\insectapp\obj\Debug\insectapp.pdb
